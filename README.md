@@ -22,7 +22,7 @@ pip install scapy
 3. Run the Script
 
 ```bash
-python port_scanner.py
+python AdvancedPortScanner.py
 ```
 
 The script allows you to scan a specific range of IP addresses and ports to identify open services.
